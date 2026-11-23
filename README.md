@@ -16,4 +16,4 @@ On synthetic customers drawn from 3 planted groups, silhouette picks k=3 (0.762)
 Real customer data is rarely this well separated. K-Means assumes round clusters of similar size, and RFM features are skewed (consider log transform). Silhouette is one criterion, not proof of a meaningful segment.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
